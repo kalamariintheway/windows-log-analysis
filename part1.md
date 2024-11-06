@@ -243,5 +243,5 @@ yamato:
 ### event id 4697:
 مربوط به service install 
 تو چنل سیستم هم 7045 داریم چون میان سرویس خودشون رو به این وسیله persistence میکنن
-### این چارت هم خیلی مهمه(برای security investigation)
+### چارت مهم برای دسته بندی event id های مهم (از security investigation)
 ![Hunting_Security_Log (1)](https://github.com/user-attachments/assets/ab0c6d98-8fb3-44ec-82a9-245e1f77ca7c)
